@@ -1,4 +1,10 @@
 # hello-world
 this is my first github
 editing the git 
-2 time editing
+
+my updations
+ 3 time updations
+
+my updations
+ 3 time updations
+
